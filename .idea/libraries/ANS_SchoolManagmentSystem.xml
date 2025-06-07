@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ANS-SchoolManagmentSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ANS-SchoolManagmentSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
